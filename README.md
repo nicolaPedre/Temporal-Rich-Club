@@ -1,5 +1,6 @@
 # Temporal-Rich-Club
-List of data sets analysed and presented in the "Temporal Rich Club Phenomenon" article by Pedreschi, Battaglia & Barrat
+List of data sets analysed and presented in the "Temporal Rich Club Phenomenon" article by Pedreschi, Battaglia & Barrat.
+All data sets are saved as .txt files in the "t, i, j" format.
 
 - US Airline Data: airt transportation temporal network publicly available at https://www.transtats.bts.gov/, "Air Carrier Statistics (From 41 Traffic) - U.S. Carriers" data base, in the T-100 Domestic Segment section. The temporal network includes N=1920 airports in the US and monthly flight connections from January 2012 to September 2020.
 
