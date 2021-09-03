@@ -1,4 +1,5 @@
 # Temporal-Rich-Club
+## Data
 List of data sets analysed and presented in the "Temporal Rich Club Phenomenon" article by Pedreschi, Battaglia & Barrat.
 All data sets are saved as .txt files in the "t, i, j" format.
 
@@ -9,3 +10,11 @@ publicly available at http://www.sociopatterns.org/datasets/primary-school-tempo
 
 
 - Neuronal Assembly: the temporal network is made of N=67 nodes, representing spinking neurons in the hippocampus an entorhinal cortex in a rat. The temporal edges represent the amount of mutual information encoded in the firing patterns of each pair of neurons. The time resolution of the temporal network is 1s and the total duration is T=2284s.
+
+## Notebooks
+A guided python3 notebook to compute the cohesion of a temporal network for specific values of $k$ and $\Delta$, and to compute and plot the relative $k-\Delta$ diagram.
+Required packages:
+  - numpy
+  - Pandas
+  - matplotlib
+  - NetworkX
