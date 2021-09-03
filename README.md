@@ -18,3 +18,5 @@ Required packages:
   - Pandas
   - matplotlib
   - NetworkX
+
+The data set used in the hands on example is the US Air Transprtation network.
