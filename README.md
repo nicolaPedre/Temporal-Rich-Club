@@ -19,4 +19,4 @@ Required packages:
   - matplotlib
   - NetworkX
 
-The data set used in the hands on example is the US Air Transprtation network.
+The data set used in the hands-on example is the US Air Transportation network.
